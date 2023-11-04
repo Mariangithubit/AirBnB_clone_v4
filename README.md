@@ -154,8 +154,12 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
+Alexa Orrico - Github / Twitter
+Jennifer Huang - Github / Twitter
+Jhoan Zamora - Github / Twitter
+David Ovalle - Github / Twitter
 Abdulaziz Hussein - [Github](https://github.com/abdul-09) / [Twitter](https://twitter.com/AbdulazHussein)  
-
+Marian Bassily - [Github](https://github.com/Mariangithubit) / [Twitter](https://twitter.com/MarianBassily)
 
 
 ## License
